@@ -22,7 +22,7 @@ This is a React application built with Vite that allows users to search for movi
 
    ```bash
    git clone https://github.com/Manahil-04/OMDB-Movie-Listing-App.git
-   cd OMDB_clone
+   cd OMDB-Movie-Listing-App
 
 2. **Install dependencies**:
 
