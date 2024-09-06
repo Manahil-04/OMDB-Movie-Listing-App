@@ -1,0 +1,13 @@
+.search-field {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px 20px 0px;
+    gap: 5px;
+}
+
+input {
+    padding: 5px;
+    width: 300px;  
+    border-color: #534666;
+    border-radius: 10px;  
+}

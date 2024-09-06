@@ -1,0 +1,23 @@
+export const movieDetails = [
+    { name: 'Year', propertyName: 'Year' },
+    { name: 'Type', propertyName: 'Type' },
+    { name: 'Rated', propertyName: 'Rated' },
+    { name: 'Released', propertyName: 'Released' },
+    { name: 'Runtime', propertyName: 'Runtime' },
+    { name: 'Genre', propertyName: 'Genre' },
+    { name: 'Director', propertyName: 'Director' },
+    { name: 'Writer', propertyName: 'Writer' },
+    { name: 'Actors', propertyName: 'Actors' },
+    { name: 'Plot', propertyName: 'Plot' },
+    { name: 'Language', propertyName: 'Language' },
+    { name: 'Country', propertyName: 'Country' },
+    { name: 'Awards', propertyName: 'Awards' },
+    { name: 'IMDB Rating', propertyName: 'imdbRating' },
+    { name: 'IMDB Votes', propertyName: 'imdbVotes' },
+    { name: 'IMDB ID', propertyName: 'imdbID' },
+    { name: 'DVD', propertyName: 'DVD' },
+    { name: 'BoxOffice', propertyName: 'BoxOffice' },
+    { name: 'Production', propertyName: 'Production' },
+    { name: 'Website', propertyName: 'Website' },
+  ];
+  
