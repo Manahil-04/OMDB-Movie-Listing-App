@@ -1,9 +1,11 @@
 import React from 'react'
-import SearchField from '../../elements/searchField/searchField'
+import Movies from '../../components/movies/movies';
 
 const Home = () => {
   return (
-    <SearchField/>
+    <div>
+    <Movies movieName="world" />
+  </div>
   )
 }
 

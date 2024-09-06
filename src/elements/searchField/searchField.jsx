@@ -21,8 +21,6 @@ const SearchField = () => {
             navigate(`/movies/${encodeURIComponent(searchTerm)}`);
         }
     }
-    console.log('button is clicked')
-
 
     return (
         <div className='search-field'>
